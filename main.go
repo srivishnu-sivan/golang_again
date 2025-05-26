@@ -10,7 +10,9 @@ type myDataStruct struct {
 
 func main(){
     // Variables()
-    paramVal := myDataStruct{dataToPrint : "Hello, I'm actually coming from different file", numerator : 25, denominator : 5}
-    FuncCrtlStrct(paramVal)
+    // paramVal := myDataStruct{dataToPrint : "Hello, I'm actually coming from different file", numerator : 25, denominator : 5}
+    // FuncCrtlStrct(paramVal)
+
+    ArrSliceMapsLoopsCtrlStruct()
 
 }
